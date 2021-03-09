@@ -11,7 +11,7 @@
         "Kelvin Meza <kmeza@pragmatic.com.pe>",
     ],
     "depends": [
-        "l10n_pe_conf", "stock"
+        "l10n_pe_conf", "stock","10n_pe_product"
     ],
     "data": [
         "security/ir.model.access.csv",
